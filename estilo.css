@@ -77,3 +77,13 @@ p {
     justify-content: center;
     gap: 20px;
 }
+.botao {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #FF7F27;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: "Press Start 2P";
+    border: 8px solid #FF7F27;
+}
